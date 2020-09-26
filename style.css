@@ -1,10 +1,16 @@
+body{
+    background-color:#FBE0C3
+        
+}
 h1{
                 font-size: 100px;
                 color:red;
+                
             }
 h2{
                 font-size: 75px;
-                color:cadetblue;
+                color:black;
+    background-color:#FFBB98
 
             }
 h3{
