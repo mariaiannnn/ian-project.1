@@ -17,6 +17,8 @@
     h2{
         font-family:fantasy;
         font-size: 35px;
+        border: 10px solid green;
+        background-color: aliceblue;
     }
     h3{
         font-family: fantasy;
@@ -45,6 +47,7 @@
 
     padding: 0 20px 20px 100px;
         margin:0;
+       
     }
 
     footer p{
@@ -68,7 +71,7 @@
       float: left;
       width: 20%;
       height: 1000px;
-     border: 20px solid cornflowerblue;
+     border: 20px solid #338AFF;
       padding: 20px;
     }
     article {
