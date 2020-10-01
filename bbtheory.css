@@ -8,7 +8,10 @@
 
     header h1{
         font-family: fantasy,sans-serif;
-        font-size: 70px;   
+        font-size: 70px;  
+      border: 1px solid black;
+        border-width: thick;
+        padding: 20px;
     }
     p{
         font-family: 1.15em noto sans,Arial,sans-serif;
@@ -129,12 +132,14 @@
   text-align: center;
   padding: 14px 16px;
   text-decoration:none;
-  font-size: 17px;
+  font-size: 25px;
+  font-family: fantasy;
+
     
 }
 
 .topnav a:hover {
-  background-color: #ddd;
+  background-color: #0A27AB;
   color: black;
 }
 
