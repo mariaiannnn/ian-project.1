@@ -1,4 +1,4 @@
-    <!DOCTYPE html>
+<!DOCTYPE html>
     <html> 
     <head> 
         <title>THE BIG BANG THEORY</title>
@@ -6,30 +6,9 @@
 
         <link rel="icon" href="img/bazinga.jpeg">
         <link rel="stylesheet" href="bbtheory.css">
-        
-<div class="topnav">
-    <a class="active" href="#home">HOME</a>
-    <a href="ABOUT.asp">ABOUT</a>
-    <a href="news">NEWS</a>
-    
-
-</div>
-    </head> 
-    <body>
-
-        <!-- HEADER ELEMENT -->
-        <div class="about">
-        <header>    
-            <img src="img/bigbang.jpeg">
-            <h1>The Big Bang Theory</h1>
-            <p style="text-align: center">|SITCOM|2007-2019|</p>
-        </header>
-        </div>
-
-        <!-- MAIN ELEMENT-->
-
-
-        <section>
+        </head>
+        <body>
+<section>
             <nav>
 
             <h2>The Episodes</h2>
@@ -54,7 +33,7 @@
             </ul>
 
 
-                <h3>FULL EPISODES AVAILABLE AT:</h3>
+                <h3> FULL EPISODES ARE AVAILABLE AT:</h3>
             <p><a href="http://www.tv.com/"target="_blank">TV.com</a></p>
             <p><a href="https://www.cbs.com/all-access/"target="_blank">CBS All Access</a></p>
             <p> <a href="https://www.hbomax.com/"target="_blank">HBO MAX</a></p>
@@ -121,9 +100,6 @@
         </article>
 
             </section>
-        <footer> <p>This site was created by: Maria Ian Padilla Gallegos    </p></footer>
-
-
-
-    </body>
-    </html>
+            
+            </body>
+</html>
