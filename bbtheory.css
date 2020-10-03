@@ -12,6 +12,7 @@
       border: 1px solid black;
         border-width: thick;
         padding: 20px;
+        
     }
     p{
         font-family: 1.15em noto sans,Arial,sans-serif;
@@ -109,7 +110,7 @@ h4{
 
 
     div.gallery {
-      margin: 5px;
+      margin: 15px;
       border:none;
       float:left;
       width: 180px;
@@ -140,13 +141,14 @@ h4{
   text-decoration:none;
   font-size: 25px;
   font-family: fantasy;
-
     
 }
+
 
 .topnav a:hover {
   background-color: #0A27AB;
   color: black;
+    
 }
 
 
@@ -155,3 +157,11 @@ h4{
   color: white;
 }
 
+
+
+.card{
+    box-shadow: 0 14px 18px 0 rgba(0,0,0,0.2);
+    transition: 0.3s;}
+
+.card:hover {
+    box-shadow: 0 28px 36px 0 rgba(0,0,0,0.2);}
